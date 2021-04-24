@@ -10,3 +10,11 @@ Separate Chaining is a collision resolution technique that handles collision by 
     III. These linked lists to the slots appear like chains.
     IV. That is why, this technique is called as separate chaining.
 
+The Operations :
+
+    1. Insertion
+    2. Deletion
+    3. Searching
+    4. Display
+    5. Exit
+
