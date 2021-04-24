@@ -18,3 +18,6 @@ The Operations :
     4. Display
     5. Exit
 
+The Prompts :
+
+The GCC File Also Have Been Pushed.
