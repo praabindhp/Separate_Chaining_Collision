@@ -20,4 +20,11 @@ The Operations :
 
 The Prompts :
 
+    Enter Your Choice
+    Enter The Key Value
+    Data at index {0} in Hash Table
+    Enter The Key To Search
+    Enter The Key To Perform Deletion
+    ID
+
 The GCC File Also Have Been Pushed.
