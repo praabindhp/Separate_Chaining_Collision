@@ -1,2 +1,2 @@
 # Seperate_Chaining_Collision
-c pROGRAM fOR Seperate Chaining Collision
+C Program For Seperate Chaining Collision
